@@ -1,0 +1,13 @@
+{
+  "name": "TechTrapture Organization Workflow",
+  "description": "TechTrapture CI starter workflow.",
+  "iconName": "amar.png",
+  "categories": [
+    "Go"
+  ],
+  "filePatterns": [
+    "package.json5",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
